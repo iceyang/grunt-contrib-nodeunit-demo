@@ -6,7 +6,7 @@
 ## Usage
 假设你已经安装好[Grunt](http://gruntjs.com/)
 ```shell
-git clone https://github.com/xxxx your_path_dir
+git clone https://github.com/iceyang/grunt-contrib-nodeunit-demo.git
 cd grunt-contrib-nodeunit-demo/js
 npm install
 grunt
