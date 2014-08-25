@@ -1,0 +1,9 @@
+{
+  "name": "grunt-contrib-nodeunit-demo",
+  "version": "0.1.0",
+  "author": "iceyang",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-nodeunit": "^0.4.1"
+  }
+}
